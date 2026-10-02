@@ -1,4 +1,14 @@
-button {
+/* button {
     background-color: #f10909;
-    padding: 20px 10px;
+    padding: 10px 30px;
+    border: 1px solid #0400ff;
+    border-radius: 1000px;
+    margim: 50px 0;
+} */
+
+.btn {
+    background-color:darkgrey;
+    padding: 30px 10px;
+    border: 3px dotted #0400ff;
+    margin: 60px 2px;
 }
