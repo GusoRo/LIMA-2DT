@@ -1,0 +1,99 @@
+h1 {
+    /* tamanho pixels */
+    font-size: 50px; 
+
+    /* tamanho 16px * 5 = 80px */
+    font-size: 5em; 
+
+    /* tamanho em % da tela */
+    font-size: 10vw; 
+
+    /* familia da fonte */
+    font-family: 'Roboto', sans-serif; 
+
+    /* espessura */
+    font-weight: 700; 
+
+    /* espaçamnto entre linhas */
+    line-height: 1px;
+
+    /* espaçamento entre letras*/
+    latter-spacing: 3px;
+
+    color: #ff0000;
+} 
+
+h2 {
+    /* tamanho pixels */
+    font-size: 6px; 
+
+    /* tamanho 16px * 5 = 80px */
+    font-size: 3em; 
+
+    /* tamanho em % da tela */
+    font-size: 13vw; 
+
+    /* familia da fonte */
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+
+    /* espessura */
+    font-weight: 400; 
+
+    /* espaçamnto entre linhas */
+    line-height: 12px;
+
+    /* espaçamento entre letras*/
+    latter-spacing: 10px;
+
+    color: #6cc03b;
+} 
+
+h3 {
+    /* tamanho pixels */
+    font-size: 90px; 
+
+    /* tamanho 16px * 5 = 80px */
+    font-size: 1em; 
+
+    /* tamanho em % da tela */
+    font-size: 6vw; 
+
+    /* familia da fonte */
+    font-family:cursive;
+
+    /* espessura */
+    font-weight: 100; 
+
+    /* espaçamnto entre linhas */
+    line-height: 5px;
+
+    /* espaçamento entre letras*/
+    latter-spacing: 6px;
+
+    color: #231834;
+}
+
+h3 {
+    /* tamanho pixels */
+    font-size: 50px; 
+
+    /* tamanho 16px * 5 = 80px */
+    font-size: 5em; 
+
+    /* tamanho em % da tela */
+    font-size: 10vw; 
+
+    /* familia da fonte */
+    font-family: 'Roboto', sans-serif; 
+
+    /* espessura */
+    font-weight: 700; 
+
+    /* espaçamnto entre linhas */
+    line-height: 1px;
+
+    /* espaçamento entre letras*/
+    latter-spacing: 3px;
+
+    color: #ff0000;
+} 

@@ -1,0 +1,19 @@
+.cor1 {
+    /* nome */
+    color:gray;
+}
+
+.cor2 {
+    /* hexadecimal */
+    color: #ff0000;
+}
+
+.cor3 {
+    /* RGB */
+    color:rgb(255, 1, 200);
+}
+
+.cor4 {
+    /* RGBA */
+    color:rgb(255, 1, 200,0.5);
+}
